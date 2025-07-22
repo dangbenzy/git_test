@@ -1,7 +1,10 @@
 import sys
 def main():
     user_input = input("Enter some text: ")
-    a= 'He said, "Hello!'
+
+    print(f"You entered: {user_input}")
+    print('done')
+    sys.exit('done!!!')
 
 
 if __name__ == "__main__":
