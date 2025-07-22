@@ -4,8 +4,9 @@ def main():
 
     print(f"You entered: {user_input}")
     print('done')
+    print('Exiting the program...')
     sys.exit('done!!!')
 
 
 if __name__ == "__main__":
-    main()gi
+    main()
